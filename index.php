@@ -19,6 +19,7 @@
 </head>
 <body>
     <h1 align = "center">Base de datos</h1>
+    <button><a href="Agregar_Usuario.php">Agregar Usuario</a></button>
     <table>
         <thead>
             <tr>
